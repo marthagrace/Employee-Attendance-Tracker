@@ -67,10 +67,9 @@ spring.datasource.url=jdbc:postgresql://localhost:5432/attendance_db
 spring.datasource.username=your_username
 spring.datasource.password=your_password
 spring.jpa.hibernate.ddl-auto=update
+```
+
 ▶️ How to Run
-bash
-Copy
-Edit
 # Build and run the application
 mvn spring-boot:run
 Access the API at: http://localhost:8080/attendance
